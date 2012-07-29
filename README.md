@@ -1,4 +1,4 @@
-gitter
-======
+myGitter
+========
 
-An exercise repo for using Git and GitHub
+An exercise repo for using Git and GitHub.
