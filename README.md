@@ -7,7 +7,7 @@ Visit the project Pages at http://JohanSamyn.github.com/myGitter
 
 this is for myFeature
 
-line for mySecondFeature
+a line for mySecondFeature
 
 some more work on dev
 
